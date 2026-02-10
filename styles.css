@@ -1,0 +1,66 @@
+h-heading {
+    font-family: 'Impact', 'Arial Black', sans-serif;
+    color: rgb(220, 231, 18);
+    letter-spacing: 1px;
+    text-shadow: 1px 1px 2px #00000055;
+}
+body {
+    background-color: rgb(255, 0, 0);
+    font-family: 'fancy', 'Helvetica', sans-serif;
+}
+
+
+
+.chainsaw-img {
+    width: 200px;
+    border-color: rgba(228, 244, 2, 0.351);
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 5px;
+    margin: 20px;
+     background-color: rgb(255, 230, 0);
+
+}
+.Fakesaw_Man-img{
+    width: 80px;
+
+}
+
+h1{
+    color: rgb(220, 231, 18);
+    font-family: 'Impact', 'Arial Black', sans-serif;
+     
+
+}
+h2{
+    color: rgb(240, 236, 0);
+    font-family: 'Impact', 'Arial Black', sans-serif;
+
+}
+h3{
+    color: rgb(231, 121, 18);
+    font-family: 'Impact', 'Arial Black', sans-serif;
+         background-color: rgb(255, 255, 1);
+
+}
+
+h4{
+    color: rgb(231, 125, 18);
+    font-family: 'Impact', 'Arial Black', sans-serif;
+    background-color: rgb(255, 255, 1);
+}
+
+p{
+  color: rgb(220, 231, 18);  
+}
+
+ul{
+    color: rgb(220, 231, 18);  
+}
+
+h5{
+    color: rgb(231, 117, 18);
+    background-color: rgb(255, 255, 1);
+    font-family: 'Impact', 'Arial Black', sans-serif;
+}
+
